@@ -5,7 +5,7 @@ Contributing Members
 ---------------------
 Asra Master (working)
 Harnish Rana (Working) 
-Brant Mullinix
+Brant Mullinix (working)
 
 ------------
 Change Log
