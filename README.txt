@@ -4,8 +4,9 @@ CSE/CIT 252 - Group 3
 Contributing Members
 ---------------------
 Asra Master
-Harnish Rana
+Harnish Rana (Working) 
 Brant Mullinix
+
 ------------
 Change Log
 ------------
