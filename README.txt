@@ -6,14 +6,14 @@ Contributing Members
 Asra Master
 Harnish Rana
 Brant Mullinix
-Another Person
 ------------
 Change Log
 ------------
 10/12 - Updated Readme.txt
+10/18 - Uploaded Home.html by Harnish
 
 
 ------------------
 Known Bugs/Issues
 ------------------
-Welcome.html is not reading the style.css file.
+-home.html does not have links to another page yet.
